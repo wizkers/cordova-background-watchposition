@@ -1,0 +1,11 @@
+{
+  "name": "cordova-background-watchposition",
+  "version": "0.0.1",
+  "description": "Persist watchPosition in background even on Android System WebView",
+  "keywords": [
+    "cordova",
+    "location"
+  ],
+  "author": "Mike Murkovic",
+  "license": "MIT"
+}
